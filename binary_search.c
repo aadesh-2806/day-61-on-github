@@ -4,7 +4,7 @@ void main()
 {
 	int n,t,i,k,a[50],r,b;
 
-	printf("hello aadesh agrawal(2019uec1660)\nenter values=");
+	printf("hello\nenter values=");
 	scanf("%d",&n);
 
 	for(i=0;i<n;i++)
