@@ -32,7 +32,7 @@ void main()
 		{
 			s=s^b[j];
 		}
-		printf("%d ",s);
+		printf("%d ",s); 
 	}
 	getch();
 	
